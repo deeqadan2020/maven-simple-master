@@ -26,4 +26,3 @@ and the dependency:
 	</dependency>
 ```
 
-# maven-simple-master
