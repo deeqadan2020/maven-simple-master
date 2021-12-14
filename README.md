@@ -6,7 +6,7 @@ Example Maven project generated using `maven-archetype-quickstart`
 
 [![Release](https://jitpack.io/v/jitpack/maven-simple.svg)](https://jitpack.io/#jitpack/maven-simple)
 
-To use it in your Maven build add:
+To use it in your Maven build add: cade
 ```xml
   <repositories>
 	<repository>
